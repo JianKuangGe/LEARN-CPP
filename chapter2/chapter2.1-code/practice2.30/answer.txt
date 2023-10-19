@@ -1,0 +1,12 @@
+v2本身就是一个常量，所以是顶层const
+v1啥都不是
+p1啥都不是
+r1是底层const,所有的引用都是底层const
+p2即是底层const
+p3即是顶层const又是底层const
+r2是底层const
+
+
+// 2.31
+1. 不合法
+2. 
