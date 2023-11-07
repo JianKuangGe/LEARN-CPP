@@ -15,3 +15,4 @@ int main()
 	const string str2 = "1234";
 	cout << isshoter(str1, str2) << endl;
 }
+// ss
